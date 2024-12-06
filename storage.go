@@ -1,6 +1,6 @@
 package storage
 
-import "github.com/mailhog/data"
+import data "github.com/skyscooby/MailHog-data"
 
 // Storage represents a storage backend
 type Storage interface {
